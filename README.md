@@ -21,7 +21,7 @@ We used a Convolutional Neural Network (CNN) for the classification task. The ar
 ## Training
 The model is trained using the following configuration:
 - **Loss Function**: Binary Crossentropy
-- **Optimizer**: Stochastic Gradient Descent (SGD)
+- **Optimizer**: Adam
 - **Metrics**: Accuracy
 - **Batch Size**: 32
 - **Epochs**: 10
