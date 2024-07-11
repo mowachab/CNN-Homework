@@ -28,7 +28,7 @@ The model is trained using the following configuration:
 - **Validation Split**: 20%
 
 ## Evaluation
-The model is evaluated using the confusion matrix, which helps in understanding the model's performance in terms of true positives, true negatives, false positives, and false negatives.
+The model is evaluated using the confusion matrix, which helps us understanding the model's performance in terms of true positives, true negatives, false positives, and false negatives.
 
 ## Performance Metrics
 - **Accuracy**: 88.74%
